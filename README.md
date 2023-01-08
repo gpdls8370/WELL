@@ -42,12 +42,12 @@ apk 파일을 다운받아서 바로 플레이할 수 있습니다.
 **메인 오브젝트인 우물(Well)을 통해 더 많은 지역을 탐험할 수 있습니다.**
 
 <div>
-<img width="500" height="300" src="https://user-images.githubusercontent.com/46310524/211219335-d226c083-9c70-4412-83da-c960594ce80e.png">
-<img width="500" height="300" src="https://user-images.githubusercontent.com/46310524/211219460-286ad02d-6d10-426e-b3d2-83603daa030f.png">
+<img width="400" height="200" src="https://user-images.githubusercontent.com/46310524/211219335-d226c083-9c70-4412-83da-c960594ce80e.png">
+<img width="400" height="200" src="https://user-images.githubusercontent.com/46310524/211219460-286ad02d-6d10-426e-b3d2-83603daa030f.png">
 <div>
 <div>
-<img width="500" height="300" src="https://user-images.githubusercontent.com/46310524/211219735-6a63a623-b687-461d-a697-f5847902b33a.png">
-<img width="500" height="300" src="https://user-images.githubusercontent.com/46310524/211219903-fc81087c-a85d-45d1-8748-0e766a28bc01.png">
+<img width="400" height="200" src="https://user-images.githubusercontent.com/46310524/211219735-6a63a623-b687-461d-a697-f5847902b33a.png">
+<img width="400" height="200" src="https://user-images.githubusercontent.com/46310524/211219903-fc81087c-a85d-45d1-8748-0e766a28bc01.png">
 <div>
 
 *퍼즐을 풀고 여러 지역들을 탐험해보세요!*
