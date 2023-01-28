@@ -1,6 +1,6 @@
 # WELL!
 
-실행 URL : https://hyeinpark.itch.io/well  (pw:1234)
+[**게임실행**](https://hyeinpark.itch.io/well)  pw:1234 / pc환경에서 정상작동 됩니다 :)
 
 ---
 
