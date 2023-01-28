@@ -1,5 +1,7 @@
 # WELL!
 
+실행 URL : https://hyeinpark.itch.io/well  (pw:1234)
+
 ---
 
 **덕계고등학교 어플개발동아리 UCA 제작**
