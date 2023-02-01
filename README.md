@@ -1,10 +1,14 @@
 # WELL!
 
-[**게임실행**](https://hyeinpark.itch.io/well)  pw:1234 / pc환경에서 정상작동 됩니다 :)
+**웹에서 게임실행** : https://hyeinpark.itch.io/well
+
+**모바일에서 게임실행** : 업로드 되어있는 .apk 파일을 다운받아서 플레이 가능합니다.
+
+(pw:1234 / 웹으로 실행할 경우 pc환경에서 정상작동 됩니다)
 
 ---
 
-**덕계고등학교 어플개발동아리 UCA 제작**
+**덕계고등학교 게임개발동아리 UCA 제작**
 
 **총괄** 박혜인
 
@@ -18,11 +22,10 @@
 
 ---
 
-2019 UCA(어플개발동아리) Unity 팀 프로젝트 : WELL!
+2019 UCA(게임개발동아리) Unity 팀 프로젝트 : WELL!
 
-고등학교 3학년 당시 속해있던 어플 개발 동아리에서 팀 프로젝트로 개발했던 게임입니다.
+고등학교 3학년 당시 속해있던 게임 개발 동아리에서 팀 프로젝트로 개발했던 모바일 게임입니다.
 
-apk 파일을 다운받아서 바로 플레이할 수 있습니다.
 
 
 ## 타이틀 화면
@@ -45,7 +48,7 @@ apk 파일을 다운받아서 바로 플레이할 수 있습니다.
 
 <div>
 <img width="400" height="200" src="https://user-images.githubusercontent.com/46310524/211219335-d226c083-9c70-4412-83da-c960594ce80e.png">
-<img width="400" height="200" src="https://user-images.githubusercontent.com/46310524/211219460-286ad02d-6d10-426e-b3d2-83603daa030f.png">
+<img width="400" height="200" src="https://user-images.githubusercontent.com/46310524/216111931-3bb2207a-e845-4bb1-9260-0e68fb721cdf.png">
 <div>
 <div>
 <img width="400" height="200" src="https://user-images.githubusercontent.com/46310524/211219735-6a63a623-b687-461d-a697-f5847902b33a.png">
