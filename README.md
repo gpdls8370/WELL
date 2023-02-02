@@ -1,10 +1,11 @@
 # WELL!
 
-**웹에서 게임실행** : https://hyeinpark.itch.io/well
+**웹에서 게임실행** : https://hyeinpark.itch.io/well  (pw:1234)
+
+(웹으로 실행할 경우 pc환경에서 정상작동 됩니다)
 
 **모바일에서 게임실행** : 업로드 되어있는 .apk 파일을 다운받아서 플레이 가능합니다.
 
-(pw:1234 / 웹으로 실행할 경우 pc환경에서 정상작동 됩니다)
 
 ---
 
@@ -48,7 +49,7 @@
 
 <div>
 <img width="400" height="200" src="https://user-images.githubusercontent.com/46310524/211219335-d226c083-9c70-4412-83da-c960594ce80e.png">
-<img width="400" height="200" src="https://user-images.githubusercontent.com/46310524/216111931-3bb2207a-e845-4bb1-9260-0e68fb721cdf.png">
+<img width="400" height="200" src="https://user-images.githubusercontent.com/46310524/211219460-286ad02d-6d10-426e-b3d2-83603daa030f.png">
 <div>
 <div>
 <img width="400" height="200" src="https://user-images.githubusercontent.com/46310524/211219735-6a63a623-b687-461d-a697-f5847902b33a.png">
